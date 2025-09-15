@@ -1,22 +1,20 @@
-Carpintería Ezquivel Oficial Shop
-Descripción
+# 🔨 Carpintería Ezquivel Oficial Shop
 
-Tienda online desarrollada en PHP, MySQL, HTML, CSS y JavaScript, donde los usuarios pueden:
+Tienda online desarrollada en **PHP, MySQL, HTML, CSS y JavaScript** donde los usuarios pueden navegar productos, agregarlos al carrito y finalizar compras enviando pedidos por WhatsApp.
 
-Navegar productos
+## 🛠️ Tecnologías
+- PHP
+- MySQL
+- HTML, CSS, JavaScript
+- Integración con WhatsApp
 
-Agregar productos al carrito
+## 📋 Funcionalidades
+- Catálogo de productos
+- Carrito de compras
+- Envío de pedidos por WhatsApp
+- Gestión de inventario
 
-Finalizar su compra y enviar el pedido por WhatsApp
+## 🌐 Enlace
+**[Carpintería Ezquivel Oficial Shop](https://carpinteriaezquivel.com)**
 
-Este proyecto demuestra habilidades en desarrollo backend, manejo de bases de datos, lógica de carrito de compras y comunicación con clientes a través de WhatsApp.
-
-Tecnologías utilizadas
-
-PHP
-
-MySQL
-
-HTML, CSS, JavaScript
-
-Integración con WhatsApp para pedidos
+*Proyecto desarrollado por David Sánchez - gsdavid151006@gmail.com*
